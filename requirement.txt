@@ -1,0 +1,6 @@
+#### 2. `requirements.txt`
+Lists the Python dependencies required to run the project
+numpy
+matplotlib
+scikit-learn
+tensorflow
